@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c67414e7-e407-4c50-b705-841edd8ef3ac/resourceGroups/TCC-MANHA-G4/providers/Microsoft.Web/sites/socket-server",
+    "appService.deploySubpath": "."
+}
