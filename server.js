@@ -43,3 +43,5 @@ server.listen(APP_PORT, () => {
     console.log(`Servidor WebSocket em execução na porta ${APP_PORT}`);
 });
 
+return {message: "Socket Funcionando", statusCode: 201}
+
