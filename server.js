@@ -37,7 +37,7 @@ io.on("connection", client => {
 
 });
 
-const APP_PORT = 80;π
+const APP_PORT = 80;
 
 server.listen(APP_PORT, () => {
     console.log(`Servidor WebSocket em execução na porta ${APP_PORT}`);
